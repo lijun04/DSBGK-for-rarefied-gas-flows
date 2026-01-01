@@ -1,4 +1,4 @@
-# DSBGK-for-rarefied-gas-flow
+# DSBGK-for-rarefied-gas-flows
 Research code shared for non-commercial academic use
 
 ## License and Usage Terms
